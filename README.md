@@ -33,6 +33,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=barnik109&theme=vision-friendly-dark" />
 </p>
 
-Generates a snake game from a github user contributions graph
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
